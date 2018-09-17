@@ -8,9 +8,9 @@
 
 To get your local
 
-	 git clone `https://github.com/RayceeM/money-transaction-platform.git`
+	 git clone `https://github.com/RayceeM/Login-and-signup-using-postgres.git`
 
-	 cd money-transaction-platform
+	 cd Login-and-signup-using-postgres
 
 	 run bundle install
 
