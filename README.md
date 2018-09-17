@@ -1,5 +1,5 @@
 
-## Dolphine,an online money transaction platform
+##
 
 **Requirements**
 - Ruby v2.5 
